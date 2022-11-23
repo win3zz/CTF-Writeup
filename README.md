@@ -56,6 +56,9 @@ It worked! I got the flag after executing some commands!
  
 ![10](https://user-images.githubusercontent.com/12781459/203560372-abb5a53b-1368-442d-8b50-8c8236fb13a5.png)
 
+## Scoreboard
+![Screenshot from 2020-01-31 15-43-14 - Copy](https://user-images.githubusercontent.com/12781459/203568597-820377e1-0274-4431-a5c5-4b1fe47ae145.png)
+
 
 Thanks for reading. Keep learning.
 
